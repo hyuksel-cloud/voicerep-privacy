@@ -13,4 +13,4 @@ Oluşturulan tüm ses kayıtları ve veri modelleri, iOS SwiftData teknolojisi k
 
 ### 3. İletişim
 Gizlilik politikamızla ilgili her türlü soru ve bildirim için bizimle iletişime geçebilirsiniz:
-* **E-posta:** eposta-adresiniz@email.com
+* **E-posta:** hyuksel@yahoo.com
