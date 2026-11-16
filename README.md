@@ -2,7 +2,7 @@
 
 **Son Güncelleme:** 4 Ağustos 2026
 
-VoiceRep uygulaması, kullanıcılarının gizliliğine ve kişisel verilerinin korunmasına büyük önem vermektedir. Bu gizlilik politikası, uygulamanın topladığı verileri ve bu verilerin kullanım amacını açıklamaktadır.
+Uygulaması, kullanıcılarının gizliliğine ve kişisel verilerinin korunmasına büyük önem vermektedir. Bu gizlilik politikası, uygulamanın topladığı verileri ve bu verilerin kullanım amacını açıklamaktadır.
 
 ### 1. Veri Toplama ve Kullanımı
 * **Ses Kayıtları ve Mikrofon:** Kullanıcıların sesli rapor ve nota dönüştürme işlemlerini gerçekleştirebilmesi için mikrofon erişimi talep eder. Alınan ses kayıtları tamamen cihazınızda (yerel depolama alanında) saklanır. Şirketimiz tarafından herhangi bir dış sunucuya aktarılmaz veya işlenmez.
